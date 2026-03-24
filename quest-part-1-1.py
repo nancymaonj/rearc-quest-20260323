@@ -1,4 +1,6 @@
-# s3://rearc-quest-20260323-876784288665-us-east-1-an/quest-part-1/bls_pr_data/
+# https://rearc-quest-20260323-876784288665-us-east-1-an.s3.us-east-1.amazonaws.com/
+# https://rearc-quest-20260323-876784288665-us-east-1-an.s3.us-east-1.amazonaws.com/pr.class
+# https://rearc-quest-20260323-876784288665-us-east-1-an.s3.us-east-1.amazonaws.com/pr.data.0.Current
 
 import os
 import re
